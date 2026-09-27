@@ -1,0 +1,61 @@
+{
+  "ano": 2027,
+  "nota": "Placeholder - estrutura pronta para virada automática em 01/01/2027",
+  "salario_minimo": 1518.0,
+  "inss": {
+    "faixas": [
+      {
+        "ate": 1518.0,
+        "aliquota": 0.075
+      },
+      {
+        "ate": 2793.88,
+        "aliquota": 0.09
+      },
+      {
+        "ate": 4190.83,
+        "aliquota": 0.12
+      },
+      {
+        "ate": 8157.41,
+        "aliquota": 0.14
+      }
+    ],
+    "teto": 8157.41
+  },
+  "irpf": {
+    "faixas": [
+      {
+        "ate": 2259.2,
+        "aliquota": 0,
+        "deducao": 0
+      },
+      {
+        "ate": 2826.65,
+        "aliquota": 0.075,
+        "deducao": 169.44
+      },
+      {
+        "ate": 3751.05,
+        "aliquota": 0.15,
+        "deducao": 381.44
+      },
+      {
+        "ate": 4664.68,
+        "aliquota": 0.225,
+        "deducao": 662.77
+      },
+      {
+        "ate": 9999999,
+        "aliquota": 0.275,
+        "deducao": 896.0
+      }
+    ],
+    "deducao_dependente": 189.59,
+    "deducao_simplificada": 564.8
+  },
+  "fgts": {
+    "aliquota": 0.08,
+    "multa_rescisoria": 0.4
+  }
+}
