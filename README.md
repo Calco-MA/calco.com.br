@@ -1,2 +1,3 @@
 # calco.com.br
-Site Calco - Inteligência Financeira - Conteúdo Auditado
+Site Calco - Inteligencia Financeira - Conteudo Auditado
+Sobre com foto do Marco preservada 100%
